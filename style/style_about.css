@@ -1,0 +1,95 @@
+.banner {
+    height: 60vh;
+}
+
+.banner-content{
+    height: 100%;
+}
+
+.txt-banner{
+    font-size: 60px;
+    font-weight: bold;
+    font-family: Open Sans, Helvetica, Arial, sans-serif;
+    color: #77BF4A;
+}
+
+.txt-banner2{
+    color: white;
+}
+
+.garis-banner {
+    border: 5px solid #77BF4A; 
+    background-color: #77BF4A;
+}
+
+
+.custom-hr {
+    border: 2px solid #17A2B8; /* Menambahkan garis solid dengan ketebalan 3px dan warna biru */
+    color: #17A2B8;
+    margin:7px 331.5;
+    width: 13%; /* Menentukan lebar garis */
+    margin: 0 auto; /* Menempatkan garis di tengah */
+    font-weight: bold;
+}
+
+
+
+#MainMenu {visibility: hidden;}
+footer {visibility: hidden;}
+
+
+.st-emotion-cache-giotri, .e1nzilvr2 {
+    display: none;
+}
+
+.st-emotion-cache-b5hcvb.e1vs0wn31 {
+    display: none;
+}
+
+
+.latar-belakang-txt{
+    font: 16px;
+    text-align: justify;
+    text-indent: 50px;
+    font-family: Open Sans, Helvetica, Arial, sans-serif;
+}
+
+.tujuan{
+    background-color: #f5f5f5;
+}
+
+
+
+
+.tujuan-txt{
+    font-size: 14px;
+    font-family: Open Sans, Helvetica, Arial, sans-serif;
+    text-align: justify;
+}
+
+.title-txt{
+    font-weight: bold;
+}
+
+.gambar1{
+    width: 250px;
+}
+
+.manfaat{
+    font-size: 14px;
+}
+
+.kartu-manfaat{
+    border: none;
+}
+
+
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img{
+    width: 300px;
+}
